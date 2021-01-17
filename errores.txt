@@ -1,0 +1,36 @@
+eliminarModal.py por eliminar_modal.py
+guardarModal.py por guardar_modal.py 
+actualizarModal.py por actualizar_modal.py 
+temas/OpcionTemas.py  por temas/opcion_temas.py
+
+En temas/opcion_temas
+def EleccionTema() por eleccion_tema()
+variable TemaSeleccionado por tema_seleccionado
+
+En unidad_8.py
+pasarObjetoGuardar() por pasar_objeto_guardar()
+pasarObjetoEliminar() por pasar_objeto_guardar()
+pasarObjetoModificar() por pasar_objeto_guardar()
+
+En modificar_modal.py
+quitar () de los command
+
+En modificar.py
+quitar () de los command
+quitar () del bind
+
+En eliminar_modal.py
+quitar () de los command
+
+En eliminar.py
+En campos -> dni por id
+En lab = Label() -> dni por id
+quitar () de los command
+quitar () del bind
+
+En guardar_modal.py
+quitar () de los command
+
+En guardar.py
+quitar () de los command
+quitar () del bind
